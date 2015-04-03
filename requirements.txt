@@ -1,0 +1,2 @@
+# We need to install directly from github because of  https://github.com/knipknap/SpiffWorkflow/issues/40
+git+https://github.com/knipknap/SpiffWorkflow.git@master
